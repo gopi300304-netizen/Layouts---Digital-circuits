@@ -20,6 +20,11 @@ The following circuits are included:
 8. Half Adder
 9. Full Adder
 10. Schmitt trigger
+11. D Flip Flop
+12. Serializer 2bit
+13. Serializer 8bit
+14. Deserializer 8bit
+    
 
 ## Tools Used
 
